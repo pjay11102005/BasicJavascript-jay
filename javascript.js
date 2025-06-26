@@ -1,3 +1,3 @@
-function sample(){
-  console.log('Hello World!');
+export function sample(){
+  console.log('Hello World!'); 
 }
